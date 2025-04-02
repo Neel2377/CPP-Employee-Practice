@@ -4,7 +4,7 @@ using namespace std;
 
 class Employee
 {
-private:
+public:
     int id;
     string name;
     int age;
